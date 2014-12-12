@@ -13,7 +13,7 @@
     "ember-routing-handlebars-action-with-key-code": false,
     "ember-runtime-item-controller-inline-class": false,
     "ember-metal-injected-properties": false,
-    "mandatory-setter": "development-only",
+    "mandatory-setter": false,
     "ember-routing-fire-activate-deactivate-events": true,
     "ember-testing-pause-test": true
   },
